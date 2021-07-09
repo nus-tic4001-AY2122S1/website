@@ -1,0 +1,1563 @@
+{
+  "enableSearch": true,
+  "pages": [
+    {
+      "src": "admin/appendixA-principles.md",
+      "title": "Admin: Apdx A: Module Principles",
+      "headings": {
+        "apdx-a-module-principles-optional": "Apdx A: Module Principles : OPTIONAL"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/appendixB-policies.md",
+      "title": "Admin: Apdx B: Module Policies",
+      "headings": {
+        "apdx-b-module-policies": "Apdx B: Module Policies ",
+        "policy-on-following-instructions": "Policy on following instructions ",
+        "policy-on-grading-smaller-larger-teams-optional": "Policy on grading smaller/larger teams : OPTIONAL",
+        "policy-on-project-work-distribution": "Policy on project work distribution ",
+        "policy-on-absence-due-to-valid-reasons-e-g-mc-loa-university-events-optional": "Policy on absence due to valid reasons (e.g. MC, LOA, University events) : OPTIONAL",
+        "policy-on-email-response-time": "Policy on email response time ",
+        "policy-on-tech-help": "Policy on tech help ",
+        "policy-on-publishing-submissions-optional": "Policy on publishing submissions : OPTIONAL",
+        "policy-on-plagiarism": "Policy on plagiarism ",
+        "policy-on-reuse": "Policy on reuse ",
+        "giving-credit-for-reused-work": "Giving credit for reused work",
+        "policy-on-help-from-outsiders": "Policy on help from outsiders ",
+        "policy-on-deadline-extensions-optional": "Policy on deadline extensions : OPTIONAL"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/appendixC-faq.md",
+      "title": "Admin: Apdx C: FAQ",
+      "headings": {
+        "apdx-c-faq": "Apdx C: FAQ ",
+        "where-is-everything": "Where is everything? ",
+        "why-so-much-self-study-optional": "Why so much self-study? : OPTIONAL",
+        "why-very-narrow-project-scope-optional": "Why very narrow project scope? : OPTIONAL",
+        "why-so-many-submissions-optional": "Why so many submissions? : OPTIONAL"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/appendixD-help.md",
+      "title": "Admin: Apdx D: Getting Help",
+      "headings": {
+        "apdx-d-getting-help": "Apdx D: Getting Help "
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/appendixE-gitHub.md",
+      "title": "Admin: Apdx E: Using GitHub",
+      "headings": {
+        "apdx-e-using-github": "Apdx E: Using GitHub ",
+        "creating-a-github-account": "Creating a GitHub Account",
+        "guidelines-for-reviewing-prs": "Guidelines for Reviewing PRs",
+        "tp-team-organization-setup": "tP Team Organization Setup",
+        "tp-team-repo-setup": "tP Team Repo Setup",
+        "tp-issue-tracker-setup": "tP Issue Tracker Setup",
+        "tp-individual-fork-setup": "tP Individual Fork Setup",
+        "tp-workflow": "tP Workflow",
+        "tp-project-schedule-tracking": "tP Project Schedule Tracking",
+        "using-issues": "Using Issues:",
+        "using-milestones": "Using Milestones:"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/appendixF-teamworkIssues.md",
+      "title": "Admin: Apdx F: Handling Team Issues",
+      "headings": {
+        "apdx-f-handling-team-issues-optional": "Apdx F: Handling Team Issues : OPTIONAL"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/exams.md",
+      "title": "",
+      "headings": {},
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/githubClassroomInfo.md",
+      "title": "",
+      "headings": {},
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/gradeBreakdown.md",
+      "title": "Admin: Grade Breakdown",
+      "headings": {
+        "grade-breakdown": "Grade Breakdown "
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/index.md",
+      "title": "Admin: TIC4001: SE Practicum I",
+      "headings": {
+        "tic4001-se-practicum-i": "TIC4001: SE Practicum I "
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/instructors.md",
+      "title": "Admin: Instructors",
+      "headings": {
+        "instructors-optional": "Instructors : OPTIONAL"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/ip-grading.md",
+      "title": "Admin: iP: Grading",
+      "headings": {
+        "ip-grading": "iP: Grading "
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/ip-overview.md",
+      "title": "Admin: iP (Individual Project): Overview",
+      "headings": {
+        "ip-individual-project-overview": "iP (Individual Project): Overview "
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/ip-showcase.md",
+      "title": "iP Showcase",
+      "headings": {
+        "tic4001-f18": "TIC4001-F18",
+        "tic4001-1": "TIC4001-1",
+        "zhen-heng-yiheng0410": "ZHEN..HENG (@Yiheng0410)     ",
+        "wang-quan-impala36": "WANG..QUAN (@Impala36)     ",
+        "lin-nhui-binbinhui": "LIN ..NHUI (@binbinhui)     ",
+        "lin-qing-linqing42": "LIN ..QING (@linqing42)     ",
+        "tic4001-2": "TIC4001-2",
+        "chan-hong-e0260222": "CHAN..HONG (@e0260222)     ",
+        "chen-duo-chenduo1412": "CHEN.. DUO (@Chenduo1412)     ",
+        "dai-wei-daiweinus": "DAI .. WEI (@daiweinus)     ",
+        "lin-tong-dgc5213": "LIN ..TONG (@dgc5213)     ",
+        "tic4001-3": "TIC4001-3",
+        "janu-lim-januariusjang": "JANU.. LIM (@JanuariusJang)     ",
+        "tay-wen-tototto": "TAY .. WEN (@tototto)     ",
+        "zhen-ijie-zhengshijienus": "ZHEN..IJIE (@ZhengShijieNUS)     ",
+        "hong-heng-pigoliver": "HONG..HENG (@pigoliver)     ",
+        "tic4001-4": "TIC4001-4",
+        "chi-ping-chilaiping": "CHI ..PING (@Chilaiping)     ",
+        "oliv-n-da-skyventus": "OLIV..N DA (@skyventus)     ",
+        "hngo-wen-e0261618": "HNGO.. WEN (@e0261618)     ",
+        "li-y-i-yi-timmyly7": "LI Y..I YI (@timmyly7)     ",
+        "adi-kari-adi-kd0021": "ADI ..KARI (@adi-kd0021)     ",
+        "ip-showcase": "iP Showcase"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/ip-w2.md",
+      "title": "Admin: iP: Week 2",
+      "headings": {
+        "1": "1 Learn about the project",
+        "2": "2 Set up prerequisites",
+        "3": "3 Set up the project in your computer",
+        "ip-week-2": "iP: Week 2 ",
+        "4-add-increments-commit-tag-push-level-0-level-1-level-2-level-3-span-aria-hidden-true-class-far-fa-clock-span-before-next-lecture": "4 Add Increments (+ commit, tag, push): Level-0, Level-1, Level-2, Level-3  before next lecture"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/ip-w3.md",
+      "title": "Admin: iP: Week 3",
+      "headings": {
+        "1": "1 Do any leftover iP tasks from the previous week",
+        "ip-week-3": "iP: Week 3 ",
+        "2-span-aria-hidden-true-class-far-fa-clock-span-by-the-end-of-the-lecture": "2 Create a PR to the upstream repo  by the end of the lecture",
+        "3-add-increments-level-4-a-textuitesting-a-codingstandard": "3 Add Increments: Level-4, A-TextUiTesting, A-CodingStandard"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/ip-w4.md",
+      "title": "Admin: iP: Week 4",
+      "headings": {
+        "ip-week-4": "iP: Week 4 ",
+        "1-add-increments-as-branches-level-5-a-codequality-a-abstractclasses-a-packages": "1 Add Increments as branches: Level-5, A-CodeQuality, A-AbstractClasses, A-Packages",
+        "2-span-aria-hidden-true-class-fab-fa-product-hunt-span": "2 Review some peer PRs  counted for participation"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/ip-w5.md",
+      "title": "Admin: iP: Week 5",
+      "headings": {
+        "ip-week-5": "iP: Week 5 ",
+        "1-add-increment-as-pr-level-6": "1 Add Increment as PR: Level-6",
+        "2-add-increments-as-parallel-branches-level-7-a-javadoc": "2 Add Increments as parallel branches: Level-7, A-JavaDoc",
+        "3-add-increment-a-jar": "3 Add Increment: A-Jar"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/ip-w6.md",
+      "title": "Admin: iP: Week 6",
+      "headings": {
+        "ip-week-6": "iP: Week 6 ",
+        "1-add-increment-a-moreoop": "1 Add Increment: A-MoreOOP",
+        "2-add-increments-as-prs-level-8-level-9-a-junit": "2 Add Increments as PRs: Level-8, Level-9, A-JUnit"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/ip-w7.md",
+      "title": "Admin: iP: Week 7",
+      "headings": {
+        "1": "1 Set up a product website",
+        "ip-week-7": "iP: Week 7 ",
+        "2-span-aria-hidden-true-class-far-fa-clock-span-sun-sep-27th-2359": "2 Submit the final version  Sun, Sep 27th 2359"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/ip-w8.md",
+      "title": "",
+      "headings": {},
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/lectures.md",
+      "title": "Admin: Lectures/Tutorials",
+      "headings": {
+        "lectures-tutorials": "Lectures/Tutorials ",
+        "tips-for-watching-lecture-videos": "Tips for watching lecture videos"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/moduleExpectations.md",
+      "title": "Admin: Module Expectations",
+      "headings": {
+        "module-expectations": "Module Expectations ",
+        "prior-knowledge-se-basics": "Prior Knowledge: SE basics",
+        "workload": "Workload",
+        "star-rating-system": "Star Rating System"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/moduleOverview.md",
+      "title": "Admin: TIC4001: SE Practicum I",
+      "headings": {
+        "tic4001-se-practicum-i": "TIC4001: SE Practicum I "
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/participation.md",
+      "title": "Admin: Participation Marks",
+      "headings": {
+        "where-to-find-your-participation-marks-progress": "Where to find your participation marks progress",
+        "participation-marks": "Participation Marks "
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/peerEvaluations.md",
+      "title": "Admin: Peer Evaluations",
+      "headings": {
+        "peer-evaluations": "Peer Evaluations ",
+        "session-practice-peer-evaluation": "Session: Practice Peer Evaluation",
+        "session-midterm-peer-evaluation": "Session: Midterm Peer Evaluation",
+        "important-questions-included-in-the-evaluation": "Important questions included in the evaluation:",
+        "peer-evaluation-criteria-professional-conduct": "Peer Evaluation Criteria: Professional Conduct",
+        "peer-evaluation-criteria-competency": "Peer Evaluation Criteria: Competency",
+        "session-final-peer-evaluation": "Session: Final Peer Evaluation",
+        "session-responses-to-peer-evaluations": "Session: Responses to Peer Evaluations",
+        "how-peer-evaluations-are-used": "How peer evaluations are used",
+        "guidelines-for-giving-peer-feedback": "Guidelines for giving peer feedback",
+        "guidelines-for-interpreting-contribution-ratings": "Guidelines for interpreting contribution ratings"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/programmingLanguages.md",
+      "title": "Admin: Programming Language",
+      "headings": {
+        "programming-language": "Programming Language "
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/reposenseAuthorAnnotation.md",
+      "title": "",
+      "headings": {
+        "adding-author-tags-indicate-authorship": "Adding @@author tags indicate authorship",
+        "what-to-and-what-not-to-annotate": "What to and what not to annotate"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/standardsAndConventions.md",
+      "title": "Admin: Standards/Conventions",
+      "headings": {
+        "standards-conventions": "Standards/Conventions ",
+        "java-2": "Java",
+        "git": "Git",
+        "markdown": "Markdown",
+        "documentation": "Documentation"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/teamList.md",
+      "title": "tP Teams List",
+      "headings": {
+        "tic4001-f18": "TIC4001-F18",
+        "tic4001-1": "TIC4001-1    ",
+        "tic4001-2": "TIC4001-2    ",
+        "tic4001-3": "TIC4001-3    ",
+        "tic4001-4": "TIC4001-4    ",
+        "tp-teams": "tP Teams"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/textbooks.md",
+      "title": "Admin: Textbooks",
+      "headings": {
+        "textbooks": "Textbooks "
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/tools.md",
+      "title": "Admin: Tools",
+      "headings": {
+        "tools": "Tools ",
+        "tool-learning-management-system": "Tool: Learning Management System",
+        "tool-zoom-for-lectures": "Tool: Zoom (for Lectures)",
+        "tool-github-for-code-hosting": "Tool: GitHub (for code hosting)",
+        "tool-git-for-revision-control": "Tool: Git (for revision control)",
+        "tools-for-communication": "Tools: for communication",
+        "forum-for-longer-running-discussions": " Forum (for longer-running discussions)",
+        "ms-teams-for-quick-chats-in-lecture-consultations": " MS Teams (for quick chats, in-lecture consultations)",
+        "tool-intellij-ide": "Tool: Intellij IDE",
+        "tool-reposense-for-authorship-tracking": "Tool: RepoSense (for authorship tracking)",
+        "tool-teammates-for-peer-evaluations": "Tool: TEAMMATES (for Peer Evaluations)"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/tp-constraints.md",
+      "title": "Admin: tP: Constraints",
+      "headings": {
+        "tp-constraints": "tP: Constraints ",
+        "constraint-typing-preferred": " Constraint-Typing-Preferred",
+        "constraint-single-user": " Constraint-Single-User",
+        "constraint-incremental": " Constraint-Incremental",
+        "constraint-human-editable-file": " Constraint-Human-Editable-File",
+        "constraint-no-dbms": " Constraint-No-DBMS",
+        "constraint-oo": " Constraint-OO",
+        "constraint-platform-independent": " Constraint-Platform-Independent",
+        "constraint-java-version": " Constraint-Java-Version",
+        "constraint-portable": " Constraint-Portable",
+        "constraint-no-remote-server": " Constraint-No-Remote-Server",
+        "constraint-external-software": " Constraint-External-Software",
+        "constraint-single-file": " Constraint-Single-File",
+        "constraint-file-size": " Constraint-File-Size",
+        "constraint-pdf-friendly": " Constraint-PDF-Friendly",
+        "recommendation-minimal-network": " Recommendation-Minimal-Network",
+        "recommendation-testability": " Recommendation-Testability",
+        "recommendation-no-gui": " Recommendation-No-GUI",
+        "recommendation-cli-first": " Recommendation-CLI-First"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/tp-deliverables.md",
+      "title": "Admin: tP: Deliverables",
+      "headings": {
+        "tp-deliverables": "tP: Deliverables ",
+        "deliverable-executable": "Deliverable: Executable",
+        "deliverable-source-code": "Deliverable: Source code",
+        "deliverable-user-guide-ug": "Deliverable: User Guide (UG)",
+        "deliverable-developer-guide-dg": "Deliverable: Developer Guide (DG)",
+        "dg-tips": "DG Tips",
+        "deliverable-product-website": "Deliverable: Product Website",
+        "website-home-page": "Website Home page",
+        "website-aboutus-page": "Website AboutUs Page",
+        "website-ug-web-page": "Website UG (Web Page)",
+        "website-dg-web-page": "Website DG (Web Page)",
+        "deliverable-project-portfolio-page-ppp": "Deliverable: Project Portfolio Page (PPP)",
+        "ppp-objectives": "PPP Objectives",
+        "ppp-sections-to-include": "PPP Sections to include",
+        "ppp-format": "PPP Format",
+        "ppp-page-limit": "PPP Page Limit",
+        "deliverable-demo": "Deliverable: Demo",
+        "demo-duration": "Demo Duration",
+        "demo-target-audience": "Demo Target audience",
+        "demo-scope": "Demo Scope",
+        "demo-structure": "Demo Structure",
+        "demo-tips": "Demo Tips"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/tp-expectations.md",
+      "title": "Admin: tP (team project): Expectations",
+      "headings": {
+        "tp-team-project-expectations": "tP (team project): Expectations ",
+        "outcomes": "Outcomes",
+        "direction": "Direction",
+        "target-user-and-amp-value-proposition": "Target User &amp; Value Proposition",
+        "functionality-expectations": "Functionality Expectations",
+        "fas-users-team-expectations": " Team Expectations",
+        "fas-user-individual-expectations": " Individual Expectations",
+        "span-aria-hidden-true-class-fas-fa-user-span-individual-expectations-on-implementation": " Individual Expectations on Implementation",
+        "span-aria-hidden-true-class-fas-fa-user-span-individual-expectations-on-documentation": " Individual Expectations on Documentation",
+        "span-aria-hidden-true-class-fas-fa-user-span-individual-expectations-on-testing": " Individual Expectations on Testing",
+        "span-aria-hidden-true-class-fas-fa-user-span-individual-expectations-on-teamwork": " Individual Expectations on Teamwork"
+      },
+      "headingKeywords": {
+        "tp-team-project-expectations": [
+          "project expectations"
+        ]
+      }
+    },
+    {
+      "src": "admin/tp-grading.md",
+      "title": "Admin: tP: Grading",
+      "headings": {
+        "tp-grading": "tP: Grading ",
+        "1-project-grading-product-design-span-aria-hidden-true-class-fas-fa-users-span-5-marks": "1. Project Grading: Product Design [ 5 marks]",
+        "2-project-grading-implementation-span-aria-hidden-true-class-fas-fa-user-span-20-marks": "2. Project Grading: Implementation [ 20 marks]",
+        "3-project-grading-qa-span-aria-hidden-true-class-fas-fa-user-span-span-aria-hidden-true-class-fas-fa-users-span-10-marks": "3. Project Grading: QA [/ 10 marks]",
+        "4-project-grading-documentation-span-aria-hidden-true-class-fas-fa-user-span-span-aria-hidden-true-class-fas-fa-users-span-15-marks": "4. Project Grading: Documentation [/ 15 marks]",
+        "5-project-grading-project-management-span-aria-hidden-true-class-fas-fa-users-span-5-span-aria-hidden-true-class-fas-fa-user-span-5-10-marks": "5. Project Grading: Project Management [ 5 +  5 = 10 marks]"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/tp-pe.md",
+      "title": "",
+      "headings": {
+        "guidelines-for-bug-triaging-3": "Guidelines for bug triaging",
+        "general-3": "General:",
+        "functionality-bugs-3": "Functionality bugs",
+        "feature-flaws-3": "Feature flaws",
+        "documentation-bugs-3": "Documentation bugs",
+        "tp-practical-exam-dry-run-pe-d": "tP: Practical Exam Dry Run (PE-D)",
+        "pe-d-overview": "PE-D Overview",
+        "pe-d-preparation": "PE-D Preparation",
+        "pe-d-during-the-session": "PE-D During the session",
+        "testing-instructions-for-pe-and-pe-d-2": "Testing instructions for PE and PE-D",
+        "pe-d-after-the-session": "PE-D After the session",
+        "tp-practical-exam-pe": "tP: Practical Exam (PE)",
+        "pe-overview-2": "PE Overview",
+        "pe-preparation-2": "PE Preparation",
+        "pe-phase-1-bug-reporting-2": "PE Phase 1: Bug Reporting",
+        "pe-phase-1-part-i-product-testing-60-minutes-2": "PE Phase 1 - Part I Product Testing [60 minutes]",
+        "testing-instructions-for-pe-and-pe-d-3": "Testing instructions for PE and PE-D",
+        "pe-phase-1-part-ii-evaluating-documents-30-minutes-2": "PE Phase 1 - Part II Evaluating Documents [30 minutes]",
+        "pe-phase-1-part-iii-overall-evaluation-15-minutes-2": "PE Phase 1 - Part III Overall Evaluation [15 minutes]",
+        "important-questions-included-in-the-evaluation-2": "Important questions included in the evaluation:",
+        "pe-phase-2-developer-response-2": "PE Phase 2: Developer Response",
+        "pe-phase-3-tester-response-2": "PE Phase 3: Tester Response",
+        "pe-phase-4-tutor-moderation-2": "PE Phase 4: Tutor Moderation"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/tp-supervision.md",
+      "title": "Admin: tP: Supervision",
+      "headings": {
+        "tp-supervision": "tP: Supervision "
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/tp-teams.md",
+      "title": "Admin: tP: Forming Teams",
+      "headings": {
+        "tp-forming-teams": "tP: Forming Teams ",
+        "when-to-form-teams": "When to form teams",
+        "team-size": "Team size",
+        "team-composition": "Team composition",
+        "team-id": "Team ID"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/tp-timeline.md",
+      "title": "Admin: tP: Timeline",
+      "headings": {
+        "tp-timeline": "tP: Timeline ",
+        "week-3-kickoff": "Week 3 Kickoff",
+        "week-4-set-direction": "Week 4 Set direction",
+        "week-5-gather-requirements": "Week 5 Gather requirements",
+        "week-6-conceptualize-the-product": "Week 6 Conceptualize the product",
+        "week-7-get-ready-for-iterations": "Week 7 Get ready for iterations",
+        "w8-w9-iteration-1-v1-0": " W8   W9  Iteration 1 → v1.0",
+        "w10-w11-iteration-2-v2-0": "W10 W11 Iteration 2 → v2.0",
+        "w12-w13-iteration-3-v3-0": "W12 W13 Iteration 3 → v3.0"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/tp-w10.md",
+      "title": "Admin: tP week 10: mid-v2.0",
+      "headings": {
+        "1": "1  Start the next iteration",
+        "2": "2  Update the DG: user stories, glossary, NFRs",
+        "3": "3  Ensure the code RepoSense-compatible",
+        "tp-week-10-mid-v2-0": "tP week 10: mid-v2.0 ",
+        "dg-possible-bugs": "DG - Possible Bugs"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/tp-w11.md",
+      "title": "Admin: tP week 11: v2.0",
+      "headings": {
+        "1": "1  Update the UG",
+        "tp-week-11-v2-0": "tP week 11: v2.0 ",
+        "2-span-aria-hidden-true-class-far-fa-clock-span-midnight-before-next-lecture": "2  Deliver v2.0  midnight before next lecture"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/tp-w12.md",
+      "title": "Admin: tP week 12: mid-v3.0",
+      "headings": {
+        "2": "2  Draft the PPP",
+        "3": "3  Double-check RepoSense compatibility",
+        "admin-span-aria-hidden-true-class-glyphicon-glyphicon-log-in-span-tp-deliverables-dg-tips": "  Admin  tP Deliverables → DG → Tips",
+        "tp-week-12-mid-v3-0": "tP week 12: mid-v3.0 ",
+        "1-span-aria-hidden-true-class-far-fa-clock-span-important": "1  Update the DG with design details  IMPORTANT"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/tp-w13.md",
+      "title": "Admin: tP week 13: v3.0",
+      "headings": {
+        "tp-week-13-v3-0": "tP week 13: v3.0 ",
+        "1-span-aria-hidden-true-class-far-fa-clock-span-sat-nov-14th-2359": "1  Submit deliverables  Sat, Nov 14th 2359",
+        "2-span-aria-hidden-true-class-far-fa-clock-span-mon-nov-16th-2359": "2  Submit the demo video  Mon, Nov 16th 2359"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/tp-w2.md",
+      "title": "",
+      "headings": {},
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/tp-w3.md",
+      "title": "Admin: tP week 3: Kickoff",
+      "headings": {
+        "tp-week-3-kickoff": "tP week 3: Kickoff ",
+        "1-span-aria-hidden-true-class-far-fa-clock-span-by-the-end-of-the-lecture": "1  Set up a project meeting time  by the end of the lecture"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/tp-w4.md",
+      "title": "Admin: tP week 4: Set direction",
+      "headings": {
+        "1": "1  Start weekly project meetings",
+        "tp-week-4-set-direction": "tP week 4: Set direction ",
+        "2-span-aria-hidden-true-class-far-fa-clock-span-before-next-lecture": "2  Start a collaborative doc to take project notes  before next lecture",
+        "3-span-aria-hidden-true-class-far-fa-clock-span-before-next-lecture": "3  Decide on an overall project direction (user profile, problem addressed)  before next lecture"
+      },
+      "headingKeywords": {
+        "3-span-aria-hidden-true-class-far-fa-clock-span-before-next-lecture": [
+          "project expectations"
+        ]
+      }
+    },
+    {
+      "src": "admin/tp-w5.md",
+      "title": "Admin: tP week 5: Gather requirements",
+      "headings": {
+        "tp-week-5-gather-requirements": "tP week 5: Gather requirements ",
+        "1-span-aria-hidden-true-class-far-fa-clock-span-before-next-lecture": "1  Brainstorm user stories  before next lecture"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/tp-w6.md",
+      "title": "Admin: tP week 6: Conceptualize the product",
+      "headings": {
+        "2": "2  Conceptualize v1.0",
+        "4": "4  Refine the product design",
+        "tp-week-6-conceptualize-the-product": "tP week 6: Conceptualize the product ",
+        "1-span-aria-hidden-true-class-far-fa-clock-span-during-the-lecture": "1  Choose user stories for v1.0  during the lecture",
+        "project-planning-with-a-twist": "Project planning, with a twist",
+        "3-span-aria-hidden-true-class-far-fa-clock-span-before-next-lecture": "3  Draft the UG  before next lecture"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/tp-w7.md",
+      "title": "Admin: tP week 7: Get ready for iterations",
+      "headings": {
+        "2": "2  Practice the workflow with a sample repo",
+        "3": "3  Plan the next iteration",
+        "tp-week-7-get-ready-for-iterations": "tP week 7: Get ready for iterations ",
+        "1-span-aria-hidden-true-class-far-fa-clock-span-during-the-lecture": "1  Set up the project repo  during the lecture"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/tp-w8.md",
+      "title": "Admin: tP week 8: mid-v1.0",
+      "headings": {
+        "1": "1  Ensure you know tP expectations",
+        "2": "2  Start implementing v1.0",
+        "3": "3  Use GitHub to manage milestones",
+        "4": "4  Add some JUnit Tests",
+        "tp-week-8-mid-v1-0": "tP week 8: mid-v1.0 "
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/tp-w9.md",
+      "title": "Admin: tP week 9: v1.0",
+      "headings": {
+        "1": "1  Make the code more defensive",
+        "tp-week-9-v1-0": "tP week 9: v1.0 ",
+        "2-span-aria-hidden-true-class-far-fa-clock-span-midnight-before-next-lecture": "2  Deliver v1.0  midnight before next lecture",
+        "3-span-aria-hidden-true-class-far-fa-clock-span-during-the-next-lecture": "3  Do an informal demo of v1.0 (in the following lecture)  during the next lecture"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/tutorials.md",
+      "title": "",
+      "headings": {
+        "tutorial-timetable": "Tutorial Timetable",
+        "tutorial-structure": "Tutorial Structure"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/usingThisWebsite.md",
+      "title": "Admin: Using this Website",
+      "headings": {
+        "using-this-website": "Using this Website ",
+        "browser-compatibility": "Browser compatibility",
+        "information-layers": "Information layers",
+        "conventions-used": "Conventions used",
+        "shorthand-headings": "Shorthand headings",
+        "meaning-of-icons": "Meaning of icons",
+        "searching-for-keywords": "Searching for keywords",
+        "saving-as-pdf-files": "Saving as PDF files",
+        "printing-textbook-content": "Printing Textbook Content",
+        "making-this-website-better": "Making this Website Better"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/weeklySchedule.md",
+      "title": "Admin: Weekly Schedule",
+      "headings": {
+        "weekly-schedule": "Weekly Schedule ",
+        "tic4001-week-vs-normal-academic-week": "TIC4001 week vs normal academic week",
+        "deadline-for-weekly-tasks": "Deadline for weekly tasks"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "book/about/acknowledgements.md",
+      "title": "About: Acknowledgements",
+      "headings": {
+        "license": "License",
+        "bug-reports-suggestions": "Bug reports, suggestions",
+        "contributions": "Contributions",
+        "contact-us": "Contact us",
+        "acknowledgements": "Acknowledgements"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "se-book-adapted/index.md",
+      "title": "Textbook",
+      "headings": {
+        "software-engineering-for-self-directed-learners-tic4001-edition-2021": "Software Engineering for Self-Directed Learners TIC4001 edition - 2021"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "se-book-adapted/chapters/architecture.md",
+      "title": "Software Architecture",
+      "headings": {
+        "-2": "Introduction",
+        "-3": "Architecture diagrams",
+        "what": "What",
+        "reading": "Reading",
+        "drawing": "Drawing",
+        "software-architecture": "Software architecture"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "se-book-adapted/chapters/codeQuality.md",
+      "title": "Code Quality",
+      "headings": {
+        "-2": "Introduction",
+        "-3": "Guideline: Maximise readability",
+        "-8": "Guideline: Follow a standard",
+        "-9": "Guideline: Name well",
+        "-12": "Guideline: Avoid unsafe shortcuts",
+        "-16": "Guideline: Comment minimally, but sufficiently",
+        "basic": "Basic",
+        "introduction": "Introduction",
+        "-4": "Basic",
+        "-5": "Intermediate",
+        "-7": "Advanced",
+        "avoid-long-methods": "Avoid Long Methods",
+        "avoid-deep-nesting": "Avoid Deep Nesting",
+        "avoid-complicated-expressions": "Avoid Complicated Expressions",
+        "avoid-magic-numbers": "Avoid Magic Numbers",
+        "make-the-code-obvious": "Make the Code Obvious",
+        "structure-code-logically": "Structure Code Logically",
+        "do-not-trip-up-reader": "Do Not 'Trip Up' Reader",
+        "practice-kissing": "Practice KISSing",
+        "avoid-premature-optimizations": "Avoid Premature Optimizations",
+        "slap-hard": "SLAP Hard",
+        "make-the-happy-path-prominent": "Make the Happy Path Prominent",
+        "introduction-2": "Introduction",
+        "basic-2": "Basic",
+        "introduction-3": "Introduction",
+        "-10": "Basic",
+        "-11": "Intermediate",
+        "use-nouns-for-things-and-verbs-for-actions": "Use Nouns for Things and Verbs for Actions",
+        "use-standard-words": "Use Standard Words",
+        "use-name-to-explain": "Use Name to Explain",
+        "not-too-long-not-too-short": "Not Too Long, Not Too Short",
+        "avoid-misleading-names": "Avoid Misleading Names",
+        "introduction-4": "Introduction",
+        "-13": "Basic",
+        "-14": "Intermediate",
+        "use-the-default-branch": "Use the Default Branch",
+        "don-t-recycle-variables-or-parameters": "Don't Recycle Variables or Parameters",
+        "avoid-empty-catch-blocks": "Avoid Empty Catch Blocks",
+        "delete-dead-code": "Delete Dead Code",
+        "minimise-scope-of-variables": "Minimise Scope of Variables",
+        "minimise-code-duplication": "Minimise Code Duplication",
+        "introduction-5": "Introduction",
+        "-17": "Basic",
+        "-18": "Intermediate",
+        "do-not-repeat-the-obvious": "Do Not Repeat the Obvious",
+        "write-to-the-reader": "Write to the Reader",
+        "explain-what-and-why-not-how": "Explain WHAT and WHY, not HOW",
+        "code-quality": "Code quality"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "se-book-adapted/chapters/cppToJava.md",
+      "title": "C++ to Java",
+      "headings": {
+        "about-this-book-chapter": "About this Book Chapter",
+        "-2": "The Java world",
+        "-3": "Getting started",
+        "-4": "Data types",
+        "-5": "Control flow",
+        "-6": "Java objects",
+        "-7": "Java classes",
+        "-8": "Some useful classes",
+        "-9": "Inheritance",
+        "-11": "Exceptions",
+        "-12": "Generics",
+        "-13": "Collections",
+        "-14": "JUnit",
+        "-15": "Miscellaneous topics",
+        "what-is-java": "What is Java?",
+        "how-java-works": "How Java Works",
+        "java-editions": "Java Editions",
+        "installation": "Installation",
+        "helloworld": "HelloWorld",
+        "compiling-programs": "Compiling Programs",
+        "running-programs": "Running Programs",
+        "span-aria-hidden-true-class-glyphicon-glyphicon-exclamation-sign-span-exercise-run-helloworld": " [Exercise] Run HelloWorld",
+        "span-aria-hidden-true-class-glyphicon-glyphicon-exclamation-sign-span-key-exercise-byeworld": " [Key Exercise] ByeWorld",
+        "primitive-data-types": "Primitive Data Types",
+        "variables": "Variables",
+        "operators": "Operators",
+        "arrays": "Arrays",
+        "span-aria-hidden-true-class-glyphicon-glyphicon-exclamation-sign-span-key-exercise-compare-names": " [Key Exercise] Compare names",
+        "passing-arguments-to-a-program": "Passing arguments to a program",
+        "branching": "Branching",
+        "methods": "Methods",
+        "loops": "Loops",
+        "span-aria-hidden-true-class-glyphicon-glyphicon-exclamation-sign-span-key-exercise-grade-helper": " [Key Exercise] Grade Helper",
+        "if-else-statements": "if-else statements",
+        "switch-statements": "switch statements",
+        "span-aria-hidden-true-class-glyphicon-glyphicon-exclamation-sign-span-key-exercise-getgradecap-method": " [Key Exercise] getGradeCap Method",
+        "defining-methods": "Defining methods",
+        "parameters": "Parameters",
+        "return-statements": "return statements",
+        "overloading": "Overloading",
+        "recursion": "Recursion",
+        "span-aria-hidden-true-class-glyphicon-glyphicon-exclamation-sign-span-key-exercise-getmultiplegradecaps-method": " [Key Exercise] getMultipleGradeCaps Method",
+        "while-loops": "while loops",
+        "for-loops": "for loops",
+        "do-while-loops": "do-while loops",
+        "break-and-continue": "break and continue",
+        "enhanced-for-loops": "Enhanced for loops",
+        "using-java-objects": "Using Java Objects",
+        "instance-members": "Instance Members",
+        "passing-objects": "Passing Objects",
+        "garbage-collection": "Garbage Collection",
+        "span-aria-hidden-true-class-glyphicon-glyphicon-exclamation-sign-span-key-exercise-create-rectangle-objects": " [Key Exercise] create Rectangle objects",
+        "importing": "importing",
+        "new-operator": "new operator",
+        "span-aria-hidden-true-class-glyphicon-glyphicon-exclamation-sign-span-key-exercise-use-rectangle-objects": " [Key Exercise] use Rectangle objects",
+        "span-aria-hidden-true-class-glyphicon-glyphicon-exclamation-sign-span-key-exercise-pass-objects-to-move-method": " [Key Exercise] pass objects to move method",
+        "null-and-nullpointerexception": "null and NullPointerException",
+        "defining-classes": "Defining Classes",
+        "getters-and-setters": "Getters and Setters",
+        "class-level-members": "Class-Level Members",
+        "span-aria-hidden-true-class-glyphicon-glyphicon-exclamation-sign-span-key-exercise-define-a-circle-class": " [Key Exercise] define a Circle class",
+        "constructors": "Constructors",
+        "this-keyword": "this keyword",
+        "instance-methods": "Instance methods",
+        "span-aria-hidden-true-class-glyphicon-glyphicon-exclamation-sign-span-key-exercise-add-getters-setters-to-the-circle-class": " [Key Exercise] add getters/setters to the Circle class",
+        "span-aria-hidden-true-class-glyphicon-glyphicon-exclamation-sign-span-key-exercise-add-getmaxradius-to-the-circle-class": " [Key Exercise] add getMaxRadius to the Circle class",
+        "java-api": "Java API",
+        "the-string-class": "The String Class",
+        "wrapper-classes-for-primitive-types": "Wrapper Classes for Primitive Types",
+        "the-arrays-class": "The Arrays Class",
+        "the-scanner-class": "The Scanner Class",
+        "span-aria-hidden-true-class-glyphicon-glyphicon-exclamation-sign-span-key-exercise-printprice-method": " [Key Exercise] printPrice method",
+        "find-characters-of-a-string": "Find characters of a string",
+        "change-a-string-to-upper-lower-case": "Change a string to upper/lower case",
+        "replacing-parts-of-a-string": "Replacing parts of a string",
+        "accessing-substrings": "Accessing substrings",
+        "searching-within-strings": "Searching within strings",
+        "comparing-strings": "Comparing strings",
+        "printing-special-characters-line-breaks-tabs": "Printing special characters (line breaks, tabs, ...)",
+        "string-formatting": "String formatting",
+        "span-aria-hidden-true-class-glyphicon-glyphicon-exclamation-sign-span-key-exercise-printtotalscore-method": " [Key Exercise] printTotalScore method",
+        "span-aria-hidden-true-class-glyphicon-glyphicon-exclamation-sign-span-key-exercise-filteremails-method": " [Key Exercise] filterEmails method",
+        "span-aria-hidden-true-class-glyphicon-glyphicon-exclamation-sign-span-key-exercise-find-total-expenditure": " [Key Exercise] find total expenditure",
+        "inheritance-basic": "Inheritance (Basic)",
+        "the-object-class": "The Object Class",
+        "interfaces": "Interfaces",
+        "polymorhism": "Polymorhism",
+        "abstract-classes-and-methods": "Abstract Classes and Methods",
+        "span-aria-hidden-true-class-glyphicon-glyphicon-exclamation-sign-span-key-exercise-inherit-the-task-class": " [Key Exercise] inherit the Task class",
+        "accessing-superclass-members": "Accessing superclass members",
+        "subclass-constructors": "Subclass constructors",
+        "access-modifiers-simplified": "Access modifiers (simplified)",
+        "span-aria-hidden-true-class-glyphicon-glyphicon-exclamation-sign-span-key-exercise-override-the-tostring-method": " [Key Exercise] override the toString method",
+        "the-tostring-method": "The toString method",
+        "the-equals-method": "The equals method",
+        "span-aria-hidden-true-class-glyphicon-glyphicon-exclamation-sign-span-key-exercise-print-printable-items": " [Key Exercise] print Printable items",
+        "span-aria-hidden-true-class-glyphicon-glyphicon-exclamation-sign-span-key-exercise-print-shape-area": " [Key Exercise] print shape area",
+        "span-aria-hidden-true-class-glyphicon-glyphicon-exclamation-sign-span-key-exercise-print-area-with-abstract-shape": " [Key Exercise] print area with abstract Shape",
+        "what-are-exceptions": "What are Exceptions?",
+        "how-to-use-exceptions": "How to use Exceptions",
+        "span-aria-hidden-true-class-glyphicon-glyphicon-exclamation-sign-span-key-exercise-parse-rectangle-descriptor": " [Key Exercise] parse rectangle descriptor",
+        "what-are-generics": "What are Generics?",
+        "how-to-use-generics": "How to use Generics",
+        "the-collections-framework": "The Collections Framework",
+        "the-arraylist-class": "The ArrayList Class",
+        "the-hashmap-class": "The HashMap Class",
+        "span-aria-hidden-true-class-glyphicon-glyphicon-exclamation-sign-span-key-exercise-numbers-list": " [Key Exercise] Numbers list",
+        "span-aria-hidden-true-class-glyphicon-glyphicon-exclamation-sign-span-key-exercise-weekly-roster": " [Key Exercise] weekly roster",
+        "junit-basic": "JUnit: Basic",
+        "junit-intermediate": "JUnit: Intermediate",
+        "enums": "Enums",
+        "packages": "Packages",
+        "file-access": "File Access",
+        "access-modifiers": "Access Modifiers",
+        "constants": "Constants",
+        "casting": "Casting",
+        "jar-files": "JAR Files",
+        "varargs": "Varargs",
+        "streams": "Streams",
+        "javafx": "JavaFX",
+        "span-aria-hidden-true-class-glyphicon-glyphicon-exclamation-sign-span-key-exercise-show-priority-color": " [Key Exercise] show priority color",
+        "c-to-java": "C++ to Java"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "se-book-adapted/chapters/design.md",
+      "title": "Software Design",
+      "headings": {
+        "-2": "Introduction",
+        "what": "What",
+        "software-design": "Software design"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "se-book-adapted/chapters/designApproaches.md",
+      "title": "Design Approaches",
+      "headings": {
+        "-2": "Multi-level design",
+        "what": "What",
+        "design-approaches": "Design approaches"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "se-book-adapted/chapters/designFundamentals.md",
+      "title": "Design Fundamentals",
+      "headings": {
+        "-2": "Abstraction",
+        "-3": "Coupling",
+        "-4": "Cohesion",
+        "what": "What",
+        "what-2": "What",
+        "how": "How",
+        "types-of-coupling": "Types of Coupling",
+        "what-3": "What",
+        "how-2": "How",
+        "design-fundamentals": "Design fundamentals"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "se-book-adapted/chapters/designPatterns.md",
+      "title": "Software Design Patterns",
+      "headings": {
+        "-2": "Introduction",
+        "-3": "Singleton pattern",
+        "-4": "Facade pattern",
+        "what": "What",
+        "format": "Format",
+        "what-2": "What",
+        "implementation": "Implementation",
+        "evaluation": "Evaluation",
+        "what-3": "What",
+        "software-design-patterns": "Software design patterns"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "se-book-adapted/chapters/documentation.md",
+      "title": "Documentation",
+      "headings": {
+        "-2": "Introduction",
+        "-3": "Tools",
+        "what": "What",
+        "-4": "JavaDoc",
+        "what-2": "What",
+        "how": "How",
+        "documentation": "Documentation"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "se-book-adapted/chapters/errorHandling.md",
+      "title": "Error Handling",
+      "headings": {
+        "-2": "Introduction",
+        "-3": "Exceptions",
+        "-4": "Assertions",
+        "-5": "Logging",
+        "what": "What",
+        "what-2": "What",
+        "how": "How",
+        "when": "When",
+        "what-3": "What",
+        "how-2": "How",
+        "when-2": "When",
+        "what-4": "What",
+        "how-3": "How",
+        "error-handling": "Error handling"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "se-book-adapted/chapters/gatheringRequirements.md",
+      "title": "Gathering Requirements",
+      "headings": {
+        "brainstorming": "Brainstorming",
+        "user-surveys": "User Surveys",
+        "observation": "Observation",
+        "interviews": "Interviews",
+        "focus-groups": "Focus Groups",
+        "prototyping": "Prototyping",
+        "product-surveys": "Product Surveys",
+        "gathering-requirements": "Gathering requirements"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "se-book-adapted/chapters/gitAndGithub.md",
+      "title": "Git and Github",
+      "headings": {
+        "init-getting-started": "init: Getting started",
+        "commit-saving-changes-to-history": "commit: Saving changes to history",
+        "omitting-files-from-revision-control": "Omitting files from revision control",
+        "tag-naming-commits": "tag: Naming commits",
+        "diff-comparing-revisions": "diff: Comparing revisions",
+        "checkout-retrieving-a-specific-revision": "checkout: Retrieving a specific revision",
+        "stash-shelving-changes-temporarily": "stash: Shelving changes temporarily",
+        "clone-copying-a-repo": "clone: Copying a repo",
+        "pull-fetch-downloading-data-from-other-repos": "pull, fetch: Downloading data from other repos",
+        "fork-creating-a-remote-copy": "Fork: Creating a remote copy",
+        "push-uploading-data-to-other-repos": "push: Uploading data to other repos",
+        "branch-doing-multiple-parallel-changes": "branch: Doing multiple parallel changes",
+        "dealing-with-merge-conflicts": "Dealing with merge conflicts",
+        "creating-prs": "Creating PRs",
+        "reviewing-prs": "Reviewing PRs",
+        "merging-prs": "Merging PRs",
+        "forking-workflow": "Forking Workflow",
+        "the-gitignore-file": "The .gitignore file",
+        "working-with-multiple-remotes": "Working with multiple remotes",
+        "pushing-a-branch-to-a-remote-repo": "Pushing a branch to a remote repo",
+        "git-and-github": "Git and GitHub"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "se-book-adapted/chapters/ides.md",
+      "title": "IDEs",
+      "headings": {
+        "-2": "Introduction",
+        "-3": "Debugging",
+        "what": "What",
+        "what-2": "What",
+        "ides": "IDEs"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "se-book-adapted/chapters/integration.md",
+      "title": "Integration",
+      "headings": {
+        "-2": "Introduction",
+        "-3": "Build Automation",
+        "what": "What",
+        "what-2": "What",
+        "continuous-integration-and-continuous-deployment": "Continuous Integration and Continuous Deployment",
+        "integration": "Integration"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "se-book-adapted/chapters/intellij.md",
+      "title": "Intellij IDEA",
+      "headings": {
+        "project-setup": "Project Setup",
+        "code-navigation": "Code Navigation",
+        "productivity-shortcuts": "Productivity Shortcuts",
+        "debugging-basic": "Debugging: Basic",
+        "refactoring": "Refactoring",
+        "running-intellij-idea-for-the-first-time": "Running IntelliJ IDEA for the First Time",
+        "intellij-idea": "IntelliJ IDEA"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "se-book-adapted/chapters/modeling.md",
+      "title": "Modeling",
+      "headings": {
+        "-2": "Introduction",
+        "-4": "Modeling structures",
+        "-5": "Modeling behaviors",
+        "what": "What",
+        "how": "How",
+        "uml-models": "UML Models",
+        "oo-structures": "OO Structures",
+        "class-diagrams-basics": "Class Diagrams (Basics)",
+        "adding-more-info-to-uml-models": "Adding More Info to UML Models",
+        "class-diagrams-intermediate": "Class Diagrams - Intermediate",
+        "class-diagrams-advanced": "Class Diagrams - Advanced",
+        "object-diagrams": "Object Diagrams",
+        "object-oriented-domain-models": "Object Oriented Domain Models",
+        "deployment-diagrams": "Deployment Diagrams",
+        "component-diagrams": "Component Diagrams",
+        "package-diagrams": "Package Diagrams",
+        "composite-structure-diagrams": "Composite Structure Diagrams",
+        "notes": "Notes",
+        "modeling-inheritance": "Modeling inheritance",
+        "modeling-composition": "Modeling composition",
+        "modeling-aggregation": "Modeling aggregation",
+        "modeling-dependencies": "Modeling dependencies",
+        "modeling-enumerations": "Modeling enumerations",
+        "modeling-abstract-classes": "Modeling abstract classes",
+        "modeling-interfaces": "Modeling interfaces",
+        "activity-diagrams-basic": "Activity Diagrams - Basic",
+        "activity-diagrams-intermediate": "Activity Diagrams - Intermediate",
+        "sequence-diagrams-basic": "Sequence Diagrams - Basic",
+        "sequence-diagrams-intermediate": "Sequence Diagrams - Intermediate",
+        "use-case-diagrams": "Use Case Diagrams",
+        "timing-diagrams": "Timing Diagrams",
+        "interaction-overview-diagrams": "Interaction Overview Diagrams",
+        "communication-diagrams": "Communication Diagrams",
+        "state-machine-diagrams": "State Machine Diagrams",
+        "modeling": "Modeling"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "se-book-adapted/chapters/oop.md",
+      "title": "Object-Oriented Programming",
+      "headings": {
+        "-2": "Introduction",
+        "-3": "Objects",
+        "-4": "Classes",
+        "-5": "Associations",
+        "-6": "Inheritance",
+        "-11": "Polymorphism",
+        "-12": "More",
+        "what": "What",
+        "what-2": "What",
+        "objects-as-abstractions": "Objects as Abstractions",
+        "encapsulation-of-objects": "Encapsulation Of Objects",
+        "what-3": "What",
+        "class-level-members": "Class Level Members",
+        "enumerations": "Enumerations",
+        "what-4": "What",
+        "navigability": "Navigability",
+        "multiplicity": "Multiplicity",
+        "dependencies": "Dependencies",
+        "composition": "Composition",
+        "aggregation": "Aggregation",
+        "association-classes": "Association Classes",
+        "implementing-associations": "Implementing associations",
+        "implementing-multiplicity": "Implementing multiplicity",
+        "implementing-composition": "Implementing composition",
+        "implementing-aggregation": "Implementing aggregation",
+        "implementing-association-classes": "Implementing association classes",
+        "what-5": "What",
+        "overriding": "Overriding",
+        "overloading": "Overloading",
+        "interfaces": "Interfaces",
+        "abstract-classes": "Abstract Classes",
+        "substitutability": "Substitutability",
+        "dynamic-and-static-binding": "Dynamic and Static Binding",
+        "what-6": "What",
+        "how": "How",
+        "miscellaneous": "Miscellaneous",
+        "review": "Review",
+        "object-oriented-programming": "Object-Oriented Programming"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "se-book-adapted/chapters/principles.md",
+      "title": "Principles",
+      "headings": {
+        "single-responsibility-principle": "Single Responsibility Principle",
+        "open-closed-principle": "Open-Closed Principle",
+        "separation-of-concerns-principle": "Separation of Concerns Principle",
+        "principles": "Principles"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "se-book-adapted/chapters/processModels.md",
+      "title": "SDLC Process Models",
+      "headings": {
+        "-2": "Introduction",
+        "what": "What",
+        "sequential-models": "Sequential Models",
+        "iterative-models": "Iterative Models",
+        "sdlc-process-models": "SDLC process models"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "se-book-adapted/chapters/projectPlanning.md",
+      "title": "Project Planning",
+      "headings": {
+        "work-breakdown-structure": "Work Breakdown Structure",
+        "milestones": "Milestones",
+        "buffers": "Buffers",
+        "issue-trackers": "Issue Trackers",
+        "gantt-charts": "GANTT Charts",
+        "pert-charts": "PERT Charts",
+        "project-planning": "Project planning"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "se-book-adapted/chapters/qualityAssurance.md",
+      "title": "Quality Assurance",
+      "headings": {
+        "-2": "Introduction",
+        "-3": "Code reviews",
+        "-4": "Static analysis",
+        "-5": "Formal verification",
+        "what": "What",
+        "validation-vs-verification": "Validation vs Verification",
+        "what-2": "What",
+        "what-3": "What",
+        "what-4": "What",
+        "quality-assurance": "Quality assurance"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "se-book-adapted/chapters/refactoring.md",
+      "title": "Refactoring",
+      "headings": {
+        "what": "What",
+        "how": "How",
+        "when": "When",
+        "refactoring": "Refactoring"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "se-book-adapted/chapters/requirements.md",
+      "title": "Requirements",
+      "headings": {
+        "introduction": "Introduction",
+        "non-functional-requirements": "Non-Functional Requirements",
+        "prioritizing-requirements": "Prioritizing Requirements",
+        "quality-of-requirements": "Quality of Requirements",
+        "requirements": "Requirements"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "se-book-adapted/chapters/reuse.md",
+      "title": "Reuse",
+      "headings": {
+        "-2": "Introduction",
+        "-3": "APIs",
+        "what": "What",
+        "when": "When",
+        "what-2": "What",
+        "reuse": "Reuse"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "se-book-adapted/chapters/revisionControl.md",
+      "title": "Revision Control",
+      "headings": {
+        "what": "What",
+        "repositories": "Repositories",
+        "saving-history": "Saving History",
+        "using-history": "Using History",
+        "remote-repositories": "Remote Repositories",
+        "branching": "Branching",
+        "drcs-vs-crcs": "DRCS vs CRCS",
+        "forking-flow": "Forking Flow",
+        "feature-branch-flow": "Feature Branch Flow",
+        "centralized-flow": "Centralized Flow",
+        "tracking-and-ignoring": "Tracking and ignoring",
+        "staging-and-committing": "Staging and committing",
+        "revision-control": "Revision control"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "se-book-adapted/chapters/softwareEngineering.md",
+      "title": "",
+      "headings": {},
+      "headingKeywords": {}
+    },
+    {
+      "src": "se-book-adapted/chapters/specifyingRequirements.md",
+      "title": "Specifying Requirements",
+      "headings": {
+        "-2": "Prose",
+        "-3": "Feature lists",
+        "-4": "User stories",
+        "-6": "Use cases",
+        "-7": "Glossary",
+        "-8": "Supplementary requirements",
+        "what": "What",
+        "what-2": "What",
+        "introduction": "Introduction",
+        "details": "Details",
+        "usage": "Usage",
+        "a-recipe-for-brainstorming-user-stories": "A recipe for brainstorming user stories",
+        "introduction-2": "Introduction",
+        "identifying": "Identifying",
+        "details-2": "Details",
+        "usage-2": "Usage",
+        "what-3": "What",
+        "what-4": "What",
+        "specifying-requirements": "Specifying requirements"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "se-book-adapted/chapters/teamwork.md",
+      "title": "Teamwork",
+      "headings": {
+        "team-structures": "Team Structures",
+        "teamwork": "Teamwork"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "se-book-adapted/chapters/test.md",
+      "title": "",
+      "headings": {},
+      "headingKeywords": {}
+    },
+    {
+      "src": "se-book-adapted/chapters/testCaseDesign.md",
+      "title": "Test Case Design",
+      "headings": {
+        "-2": "Introduction",
+        "-3": "Equivalence partitions",
+        "-4": "Boundary value analysis",
+        "-5": "More",
+        "what": "What",
+        "positive-vs-negative-test-cases": "Positive vs Negative Test Cases",
+        "black-box-vs-glass-box": "Black Box vs Glass Box",
+        "what-2": "What",
+        "basic": "Basic",
+        "intermediate": "Intermediate",
+        "what-3": "What",
+        "how": "How",
+        "test-case-design": "Test case design"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "se-book-adapted/chapters/testing.md",
+      "title": "Testing",
+      "headings": {
+        "-2": "Introduction",
+        "-3": "Testing types",
+        "-13": "Test automation",
+        "-14": "Test coverage",
+        "-15": "Dependency injection",
+        "-18": "TDD",
+        "what": "What",
+        "testability": "Testability",
+        "-4": "Unit testing",
+        "-5": "Integration testing",
+        "-6": "System testing",
+        "-7": "Alpha and beta testing",
+        "-8": "Dogfooding",
+        "-9": "Developer testing",
+        "-10": "Exploratory versus scripted testing",
+        "-11": "Acceptance testing",
+        "-12": "Regression testing",
+        "what-2": "What",
+        "stubs": "Stubs",
+        "what-3": "What",
+        "how": "How",
+        "what-4": "What",
+        "what-5": "What",
+        "what-6": "What",
+        "what-7": "What",
+        "why": "Why",
+        "what-8": "What",
+        "when": "When",
+        "what-9": "What",
+        "acceptance-vs-system-testing": "Acceptance vs System Testing",
+        "what-10": "What",
+        "what-11": "What",
+        "automated-testing-of-cli-apps": "Automated Testing of CLI Apps",
+        "test-automation-using-test-drivers": "Test Automation Using Test Drivers",
+        "test-automation-tools": "Test Automation Tools",
+        "automated-testing-of-guis": "Automated Testing of GUIs",
+        "what-12": "What",
+        "how-2": "How",
+        "what-13": "What",
+        "how-3": "How",
+        "what-14": "What",
+        "how-4": "How",
+        "testing": "Testing"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "se-book-adapted/chapters/uml.md",
+      "title": "UML",
+      "headings": {
+        "-2": "Class diagrams",
+        "-17": "Sequence diagrams",
+        "-18": "Object diagrams",
+        "-19": "Notes",
+        "-20": "Miscellaneous",
+        "-3": "Introduction",
+        "-4": "Classes",
+        "-5": "Associations",
+        "-6": "Dependencies",
+        "-7": "Associations as attributes",
+        "-8": "Enumerations",
+        "-9": "Class-level members",
+        "-10": "Association classes",
+        "-11": "Composition",
+        "-12": "Aggregation",
+        "-13": "Class inheritance",
+        "-14": "Interfaces",
+        "-15": "Abstract classes",
+        "-16": "Combine",
+        "what": "What",
+        "what-2": "What",
+        "what-3": "What",
+        "navigability": "Navigability",
+        "roles": "Roles",
+        "labels": "Labels",
+        "multiplicity": "Multiplicity",
+        "what-4": "What",
+        "what-5": "What",
+        "what-6": "What",
+        "what-7": "What",
+        "what-8": "What",
+        "what-9": "What",
+        "what-10": "What",
+        "what-11": "What",
+        "what-12": "What",
+        "what-13": "What",
+        "basic": "Basic",
+        "introduction": "Introduction",
+        "basic-2": "Basic",
+        "object-creation": "Object Creation",
+        "object-deletion": "Object Deletion",
+        "loops": "Loops",
+        "self-invocation": "Self Invocation",
+        "alternative-paths": "Alternative Paths",
+        "optional-paths": "Optional Paths",
+        "parallel-paths": "Parallel Paths",
+        "reference-frames": "Reference Frames",
+        "calls-to-static-methods": "Calls to Static Methods",
+        "minimal-notation": "Minimal Notation",
+        "introduction-2": "Introduction",
+        "objects": "Objects",
+        "associations": "Associations",
+        "notes": "Notes",
+        "object-vs-class-diagrams": "Object vs Class Diagrams",
+        "uml": "UML"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "se-book-adapted/common/definitions.md",
+      "title": "Definitions",
+      "headings": {
+        "definitions": "Definitions",
+        "a": "A",
+        "b": "B",
+        "c": "C",
+        "d": "D",
+        "e": "E",
+        "f": "F",
+        "g": "G",
+        "i": "I",
+        "l": "L",
+        "o": "O",
+        "p": "P",
+        "r": "R",
+        "s": "S",
+        "t": "T",
+        "u": "U",
+        "w": "W",
+        "y": "Y"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "se-book-adapted/common/exercises.md",
+      "title": "Combined Exercises",
+      "headings": {
+        "combined-exercises": "Combined Exercises"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "se-book-adapted/projectDuke/index.md",
+      "title": "Project Duke",
+      "headings": {
+        "project-duke": "Project Duke",
+        "levels": "Levels",
+        "level-0-greet": "Level 0. Greet",
+        "level-1-greet-echo-exit": "Level 1. Greet, Echo, Exit",
+        "level-2-add-list": "Level 2. Add, List",
+        "level-3-mark-as-done": "Level 3. Mark as Done",
+        "level-4-todos-events-deadlines": "Level 4. ToDos, Events, Deadlines",
+        "level-5-handle-errors": "Level 5. Handle Errors",
+        "level-6-delete": "Level 6. Delete",
+        "level-7-save": "Level 7. Save",
+        "level-8-dates-and-times": "Level 8. Dates and Times",
+        "level-9-find": "Level 9. Find",
+        "level-10-gui": "Level 10. GUI",
+        "extensions-category-a": "Extensions: Category A",
+        "a-classes-2": "A-Classes",
+        "a-inheritance-2": "A-Inheritance",
+        "a-abstractclasses": "A-AbstractClasses",
+        "a-exceptions-2": "A-Exceptions",
+        "a-textuitesting": "A-TextUiTesting",
+        "a-collections-2": "A-Collections",
+        "a-moreoop": "A-MoreOOP",
+        "a-junit": "A-JUnit",
+        "a-packages": "A-Packages",
+        "a-javadoc": "A-JavaDoc",
+        "a-codingstandard": "A-CodingStandard",
+        "a-checkstyle": "A-CheckStyle",
+        "a-codequality": "A-CodeQuality",
+        "a-assertions": "A-Assertions",
+        "a-jar": "A-Jar",
+        "a-gradle": "A-Gradle",
+        "a-ci": "A-CI",
+        "a-enums": "A-Enums",
+        "a-varargs": "A-Varargs",
+        "a-lambdas": "A-Lambdas",
+        "a-streams": "A-Streams",
+        "a-libraries": "A-Libraries",
+        "a-userguide": "A-UserGuide",
+        "a-devguide": "A-DevGuide",
+        "a-release": "A-Release",
+        "a-bettergui": "A-BetterGui",
+        "extensions-category-b": "Extensions: Category B",
+        "b-tentativescheduling": "B-TentativeScheduling",
+        "b-snooze": "B-Snooze",
+        "b-recurringtasks": "B-RecurringTasks",
+        "b-doaftertasks": "B-DoAfterTasks",
+        "b-dowithinperiodtasks": "B-DoWithinPeriodTasks",
+        "b-fixeddurationtasks": "B-FixedDurationTasks",
+        "b-reminders": "B-Reminders",
+        "b-findfreetimes": "B-FindFreeTimes",
+        "b-viewschedules": "B-ViewSchedules",
+        "b-detectanomalies": "B-DetectAnomalies",
+        "extensions-category-c": "Extensions: Category C",
+        "c-detectduplicates": "C-DetectDuplicates",
+        "c-flexibledatasource": "C-FlexibleDataSource",
+        "c-sort": "C-Sort",
+        "c-naturaldates": "C-NaturalDates",
+        "c-bettersearch": "C-BetterSearch",
+        "c-update": "C-Update",
+        "c-tagging": "C-Tagging",
+        "c-priority": "C-Priority",
+        "c-archive": "C-Archive",
+        "c-massops": "C-MassOps",
+        "c-statistics": "C-Statistics",
+        "c-undo": "C-Undo",
+        "c-help": "C-Help",
+        "c-friendliersyntax": "C-FriendlierSyntax",
+        "extensions-category-d": "Extensions: Category D",
+        "d-contacts": "D-Contacts",
+        "d-notes": "D-Notes",
+        "d-expenses": "D-Expenses",
+        "d-loans": "D-Loans",
+        "d-places": "D-Places",
+        "d-trivia": "D-Trivia",
+        "d-clients": "D-Clients",
+        "d-merchandise": "D-Merchandise"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "book/combined/exercises.md",
+      "title": "Combined Exercises",
+      "headings": {
+        "combined-exercises": "Combined Exercises"
+      },
+      "headingKeywords": {}
+    }
+  ]
+}
