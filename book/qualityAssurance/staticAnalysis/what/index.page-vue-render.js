@@ -29,6 +29,6 @@ with(this){return _c('p',[_c('strong',[_v("Higher-end static analysis tools (sta
 with(this){return _c('p',[_c('strong',[_c('em',[_v("Linters")]),_v(" are a subset of static analyzers")]),_v(" that specifically aim to locate areas where the code can be made 'cleaner'.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.4")]),_v(", generated on Sat, 10 Jul 2021, 0:09:30 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.4")]),_v(", generated on Wed, 14 Jul 2021, 15:41:43 GMT+8]")])])])}
 }];
   
