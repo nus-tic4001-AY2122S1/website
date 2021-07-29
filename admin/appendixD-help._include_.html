@@ -31,10 +31,28 @@ Pay attention to the error message you encounter. Sometimes it also contains hin
 <li>Give a meaningful title to the post. Be as specific as you can.<br>
 <span style="color: red"><span><strong><span aria-hidden="true" class="fas fa-thumbs-down"></span> Bad</strong></span></span> <code class="hljs inline no-lang" v-pre>testing problem</code><br>
 <span style="color: green"><span><strong><span aria-hidden="true" class="fas fa-thumbs-up"></span> Good</strong></span></span> <code class="hljs inline no-lang" v-pre>runtest.bat fails with ClassNotFound error</code></li>
-<li>Include full error message, screenshots, code snippets, stack traces, etc.<br>
-<span aria-hidden="true" class="fas fa-lightbulb"></span> Note that it is better to give code in text form rather than as screenshots, to allow others to easily copy-paste the code in their reply.<br>
-<span aria-hidden="true" class="fas fa-lightbulb"></span> You can use <a href="https://guides.github.com/features/mastering-markdown/">Markdown, and GFM</a> syntax when posting in the forum.</li>
+<li>Include full error message, screenshots, screen recordings, code snippets, stack traces, etc.<br>
+<span aria-hidden="true" class="fas fa-lightbulb"></span> You can use <a href="https://guides.github.com/features/mastering-markdown/">Markdown, and GFMD</a> syntax when posting in the forum.</li>
 <li>If the problem is code-related, share the full code if possible (e.g., push the current state of the code to a branch in your fork and give the link to the branch). That gives a chance for someone to reproduce the state of your project in their computer. Sharing just a snippet of your choosing might not be enough as the problem may not be where you think it is.</li></ul></li>
+<li>
+<p><strong>Avoid showing text as screenshots</strong>: If you want to show some text in your post <span class="dimmed">(e.g., a code snippet, an error message)</span>, it is better to copy-paste the actual text rather than a <em>screenshot</em> of the text<br>
+Reason: so that others can easily quote/copy/modify the code in their answers.<br>
+Remember to use <a href="https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks"><em>fenced code blocks</em> feature</a> so that the code is syntax-highlighted as well.<br></p>
+<ul>
+<li><strong class="text-danger">not preferred</strong> (it's a screenshot)<br>
+<pic src="/website/admin/images/code-screenshot.png"></pic></li>
+<li><strong>OK</strong><pre><code class="no-line-numbers hljs" v-pre><span>@Override
+</span><span>public void start(Stage primaryStage) {
+</span><span>    logger.info(&quot;Starting AddressBook &quot; + MainApp.VERSION);
+</span><span>    ui.start(primaryStage);
+</span><span>}
+</span></code></pre></li>
+<li><strong class="text-success">better</strong> (it has syntax highlighting too!)<pre><code class="no-line-numbers hljs java" v-pre><span><span class="hljs-meta">@Override</span>
+</span><span><span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title">start</span><span class="hljs-params">(Stage primaryStage)</span> </span>{
+</span><span>    logger.info(<span class="hljs-string">&quot;Starting AddressBook &quot;</span> + MainApp.VERSION);
+</span><span>    ui.start(primaryStage);
+</span><span>}
+</span></code></pre></li></ul></li>
 <li>
 <p><strong>Avoid addressing the question to one person</strong> (e.g., the prof), unless really necessary. Doing so will discourage others from answering that question.</p></li>
 <li>
