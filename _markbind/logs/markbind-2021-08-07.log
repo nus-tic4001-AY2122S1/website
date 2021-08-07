@@ -497,3 +497,33 @@
 2021-08-07T07:03:15.500Z - info: Lazy website regeneration complete! Total build time: 0.145s
 2021-08-07T07:04:52.132Z - info: Website generation started at 3:04:50 pm
 2021-08-07T07:04:56.910Z - info: Building assets...
+2021-08-07T07:05:00.545Z - info: Assets built
+2021-08-07T07:05:00.546Z - info: Generating pages...
+2021-08-07T07:05:07.124Z - debug:  
+2021-08-07T07:05:07.125Z - debug:  
+2021-08-07T07:05:07.125Z - debug:  
+2021-08-07T07:05:07.125Z - debug:  
+2021-08-07T07:05:07.126Z - debug:  
+2021-08-07T07:05:07.175Z - debug:  
+2021-08-07T07:06:26.521Z - debug:  
+2021-08-07T07:06:33.026Z - debug:  
+2021-08-07T07:06:33.139Z - debug:  
+2021-08-07T07:06:36.310Z - info: Pages built
+2021-08-07T07:06:37.041Z - info: Site data built
+2021-08-07T07:06:37.041Z - info: Website generation complete! Total build time: 106.619s
+2021-08-07T07:06:37.041Z - info: Build success!
+2021-08-07T07:06:47.229Z - info: Deployed at https://nus-tic4001-ay2122s1.github.io/website!
+2021-08-07T07:29:56.489Z - info: Website generation (lazy) started at 3:29:52 pm
+2021-08-07T07:30:00.923Z - info: Building assets...
+2021-08-07T07:30:04.510Z - info: Assets built
+2021-08-07T07:30:04.511Z - info: Generating landing page...
+2021-08-07T07:30:05.041Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-08-07T07:30:05.782Z - info: Site data built
+2021-08-07T07:30:05.782Z - info: Website generation (lazy) complete! Total build time: 13.557s
+2021-08-07T07:30:06.459Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2021-08-07T07:30:06.459Z - info: Press CTRL+C to stop ...
+2021-08-07T07:30:30.318Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\lectures as some of its dependencies were changed since the last visit
+2021-08-07T07:30:30.642Z - info: Site data built
+2021-08-07T07:30:30.642Z - info: Lazy website regeneration complete! Total build time: 0.326s
+2021-08-07T07:33:02.213Z - info: Website generation started at 3:33:00 pm
+2021-08-07T07:33:06.291Z - info: Building assets...
