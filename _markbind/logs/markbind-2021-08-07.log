@@ -527,3 +527,49 @@
 2021-08-07T07:30:30.642Z - info: Lazy website regeneration complete! Total build time: 0.326s
 2021-08-07T07:33:02.213Z - info: Website generation started at 3:33:00 pm
 2021-08-07T07:33:06.291Z - info: Building assets...
+2021-08-07T07:33:10.646Z - info: Assets built
+2021-08-07T07:33:10.647Z - info: Generating pages...
+2021-08-07T07:33:16.880Z - debug:  
+2021-08-07T07:33:16.881Z - debug:  
+2021-08-07T07:33:16.881Z - debug:  
+2021-08-07T07:33:16.881Z - debug:  
+2021-08-07T07:33:16.881Z - debug:  
+2021-08-07T07:33:16.881Z - debug:  
+2021-08-07T07:34:29.090Z - debug:  
+2021-08-07T07:34:35.167Z - debug:  
+2021-08-07T07:34:35.168Z - debug:  
+2021-08-07T07:34:37.809Z - info: Pages built
+2021-08-07T07:34:38.501Z - info: Site data built
+2021-08-07T07:34:38.502Z - info: Website generation complete! Total build time: 97.754s
+2021-08-07T07:34:38.502Z - info: Build success!
+2021-08-07T07:34:47.879Z - info: Deployed at https://nus-tic4001-ay2122s1.github.io/website!
+2021-08-07T07:38:31.131Z - info: Website generation (lazy) started at 3:38:27 pm
+2021-08-07T07:38:35.446Z - info: Building assets...
+2021-08-07T07:38:39.209Z - info: Assets built
+2021-08-07T07:38:39.209Z - info: Generating landing page...
+2021-08-07T07:38:39.723Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-08-07T07:38:40.442Z - info: Site data built
+2021-08-07T07:38:40.442Z - info: Website generation (lazy) complete! Total build time: 13.348s
+2021-08-07T07:38:41.108Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2021-08-07T07:38:41.108Z - info: Press CTRL+C to stop ...
+2021-08-07T07:38:48.427Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\lectures as some of its dependencies were changed since the last visit
+2021-08-07T07:38:48.596Z - info: Site data built
+2021-08-07T07:38:48.596Z - info: Lazy website regeneration complete! Total build time: 0.17s
+2021-08-07T07:40:01.255Z - info: [3:40:01 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\lectures.md
+2021-08-07T07:40:01.255Z - info: Synchronizing opened pages list before reload
+2021-08-07T07:40:01.255Z - info: Current opened pages, from most-to-least recent:
+2021-08-07T07:40:01.256Z - info: 1. admin/lectures
+2021-08-07T07:40:02.269Z - info: Rebuilding 1 pages
+2021-08-07T07:40:02.438Z - info: Site data built
+2021-08-07T07:40:02.438Z - info: Pages rebuilt
+2021-08-07T07:40:02.438Z - info: Website regeneration complete! Total build time: 0.17s
+2021-08-07T07:40:39.839Z - info: [3:40:39 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\lectures.md
+2021-08-07T07:40:39.839Z - info: Synchronizing opened pages list before reload
+2021-08-07T07:40:39.839Z - info: Current opened pages, from most-to-least recent:
+2021-08-07T07:40:39.839Z - info: 1. admin/lectures
+2021-08-07T07:40:40.847Z - info: Rebuilding 1 pages
+2021-08-07T07:40:40.974Z - info: Site data built
+2021-08-07T07:40:40.974Z - info: Pages rebuilt
+2021-08-07T07:40:40.974Z - info: Website regeneration complete! Total build time: 0.127s
+2021-08-07T07:41:08.800Z - info: Website generation started at 3:41:07 pm
+2021-08-07T07:41:12.533Z - info: Building assets...
