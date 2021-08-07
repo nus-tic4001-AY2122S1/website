@@ -573,3 +573,67 @@
 2021-08-07T07:40:40.974Z - info: Website regeneration complete! Total build time: 0.127s
 2021-08-07T07:41:08.800Z - info: Website generation started at 3:41:07 pm
 2021-08-07T07:41:12.533Z - info: Building assets...
+2021-08-07T07:41:15.737Z - info: Assets built
+2021-08-07T07:41:15.738Z - info: Generating pages...
+2021-08-07T07:41:22.742Z - debug:  
+2021-08-07T07:41:22.743Z - debug:  
+2021-08-07T07:41:22.743Z - debug:  
+2021-08-07T07:41:22.743Z - debug:  
+2021-08-07T07:41:22.743Z - debug:  
+2021-08-07T07:41:22.743Z - debug:  
+2021-08-07T07:42:43.010Z - debug:  
+2021-08-07T07:42:48.353Z - debug:  
+2021-08-07T07:42:48.354Z - debug:  
+2021-08-07T07:42:51.217Z - info: Pages built
+2021-08-07T07:42:51.962Z - info: Site data built
+2021-08-07T07:42:51.963Z - info: Website generation complete! Total build time: 104.538s
+2021-08-07T07:42:51.963Z - info: Build success!
+2021-08-07T07:43:01.654Z - info: Deployed at https://nus-tic4001-ay2122s1.github.io/website!
+2021-08-07T07:54:46.080Z - info: Website generation (lazy) started at 3:54:41 pm
+2021-08-07T07:54:50.206Z - info: Building assets...
+2021-08-07T07:54:54.411Z - info: Assets built
+2021-08-07T07:54:54.411Z - info: Generating landing page...
+2021-08-07T07:54:54.971Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-08-07T07:54:55.705Z - info: Site data built
+2021-08-07T07:54:55.705Z - info: Website generation (lazy) complete! Total build time: 13.764s
+2021-08-07T07:54:56.404Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2021-08-07T07:54:56.404Z - info: Press CTRL+C to stop ...
+2021-08-07T07:55:07.985Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\lectures as some of its dependencies were changed since the last visit
+2021-08-07T07:55:08.173Z - info: Site data built
+2021-08-07T07:55:08.173Z - info: Lazy website regeneration complete! Total build time: 0.188s
+2021-08-07T08:00:59.403Z - info: [4:00:59 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\timetables.mbdf
+2021-08-07T08:00:59.403Z - info: Synchronizing opened pages list before reload
+2021-08-07T08:00:59.404Z - info: Current opened pages, from most-to-least recent:
+2021-08-07T08:00:59.404Z - info: 1. admin/lectures
+2021-08-07T08:01:00.410Z - info: Rebuilding 1 pages
+2021-08-07T08:01:00.665Z - info: Site data built
+2021-08-07T08:01:00.665Z - info: Pages rebuilt
+2021-08-07T08:01:00.666Z - info: Website regeneration complete! Total build time: 0.257s
+2021-08-07T08:02:31.072Z - info: [4:02:31 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\timetables.mbdf
+2021-08-07T08:02:31.072Z - info: Synchronizing opened pages list before reload
+2021-08-07T08:02:31.072Z - info: Current opened pages, from most-to-least recent:
+2021-08-07T08:02:31.072Z - info: 1. admin/lectures
+2021-08-07T08:02:32.086Z - info: Rebuilding 1 pages
+2021-08-07T08:02:32.260Z - info: Site data built
+2021-08-07T08:02:32.260Z - info: Pages rebuilt
+2021-08-07T08:02:32.260Z - info: Website regeneration complete! Total build time: 0.178s
+2021-08-07T08:08:45.023Z - info: Website generation started at 4:08:42 pm
+2021-08-07T08:08:50.203Z - info: Building assets...
+2021-08-07T08:08:54.575Z - info: Assets built
+2021-08-07T08:08:54.575Z - info: Generating pages...
+2021-08-07T08:09:01.394Z - debug:  
+2021-08-07T08:09:02.918Z - debug:  
+2021-08-07T08:09:02.918Z - debug:  
+2021-08-07T08:09:02.919Z - debug:  
+2021-08-07T08:09:02.919Z - debug:  
+2021-08-07T08:09:02.919Z - debug:  
+2021-08-07T08:10:49.420Z - debug:  
+2021-08-07T08:11:00.853Z - debug:  
+2021-08-07T08:11:00.853Z - debug:  
+2021-08-07T08:11:06.322Z - info: Pages built
+2021-08-07T08:11:07.151Z - info: Site data built
+2021-08-07T08:11:07.151Z - info: Website generation complete! Total build time: 144.261s
+2021-08-07T08:11:07.151Z - info: Build success!
+2021-08-07T08:11:17.634Z - info: Deployed at https://nus-cs2103-ay2122s1.github.io/website!
+2021-08-07T08:26:28.509Z - info: Website generation started at 4:26:23 pm
+2021-08-07T08:26:33.910Z - info: Building assets...
