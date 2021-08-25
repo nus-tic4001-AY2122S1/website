@@ -1,0 +1,58 @@
+2021-08-25T10:55:50.459Z - info: Website generation (lazy) started at 6:55:45 pm
+2021-08-25T10:55:56.690Z - info: Building assets...
+2021-08-25T10:56:01.063Z - info: Assets built
+2021-08-25T10:56:01.063Z - info: Generating landing page...
+2021-08-25T10:56:02.287Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-08-25T10:56:03.149Z - info: Site data built
+2021-08-25T10:56:03.149Z - info: Website generation (lazy) complete! Total build time: 17.819s
+2021-08-25T10:56:04.056Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2021-08-25T10:56:04.057Z - info: Press CTRL+C to stop ...
+2021-08-25T10:56:15.358Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project as some of its dependencies were changed since the last visit
+2021-08-25T10:56:16.432Z - info: Site data built
+2021-08-25T10:56:16.432Z - info: Lazy website regeneration complete! Total build time: 1.074s
+2021-08-25T10:56:43.998Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\index as some of its dependencies were changed since the last visit
+2021-08-25T10:56:45.670Z - info: Site data built
+2021-08-25T10:56:45.670Z - info: Lazy website regeneration complete! Total build time: 1.672s
+2021-08-25T10:59:43.159Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\tutorial as some of its dependencies were changed since the last visit
+2021-08-25T10:59:43.421Z - info: Site data built
+2021-08-25T10:59:43.421Z - info: Lazy website regeneration complete! Total build time: 0.262s
+2021-08-25T11:01:09.604Z - info: [7:01:09 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\tutorial-tic4001.mbdf
+2021-08-25T11:01:09.608Z - info: Synchronizing opened pages list before reload
+2021-08-25T11:01:09.609Z - info: Current opened pages, from most-to-least recent:
+2021-08-25T11:01:09.609Z - info: 1. schedule/week4/tutorial
+2021-08-25T11:01:10.619Z - info: Rebuilding 1 pages
+2021-08-25T11:01:10.943Z - info: Site data built
+2021-08-25T11:01:10.943Z - info: Pages rebuilt
+2021-08-25T11:01:10.943Z - info: Website regeneration complete! Total build time: 0.325s
+2021-08-25T11:01:16.340Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\admin as some of its dependencies were changed since the last visit
+2021-08-25T11:01:16.735Z - info: Site data built
+2021-08-25T11:01:16.735Z - info: Lazy website regeneration complete! Total build time: 0.396s
+2021-08-25T11:01:25.584Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\project as some of its dependencies were changed since the last visit
+2021-08-25T11:01:27.067Z - info: Site data built
+2021-08-25T11:01:27.068Z - info: Lazy website regeneration complete! Total build time: 1.484s
+2021-08-25T11:04:49.171Z - info: [7:04:49 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-TIC4001\weeklyIpTasks.mbdf
+2021-08-25T11:04:49.172Z - info: Synchronizing opened pages list before reload
+2021-08-25T11:04:49.172Z - info: Current opened pages, from most-to-least recent:
+2021-08-25T11:04:49.173Z - info: 1. schedule/week4/project
+2021-08-25T11:04:50.190Z - info: Rebuilding 1 pages
+2021-08-25T11:04:51.614Z - info: Site data built
+2021-08-25T11:04:51.614Z - info: Pages rebuilt
+2021-08-25T11:04:51.614Z - info: Website regeneration complete! Total build time: 1.428s
+2021-08-25T11:22:55.510Z - info: [7:22:55 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-TIC4001\studentData.mbdf
+2021-08-25T11:22:55.510Z - info: Synchronizing opened pages list before reload
+2021-08-25T11:22:55.511Z - info: Current opened pages, from most-to-least recent:
+2021-08-25T11:22:55.511Z - info: 1. schedule/week4/project
+2021-08-25T11:22:56.534Z - info: Rebuilding 1 pages
+2021-08-25T11:22:57.893Z - info: Site data built
+2021-08-25T11:22:57.893Z - info: Pages rebuilt
+2021-08-25T11:22:57.894Z - info: Website regeneration complete! Total build time: 1.362s
+2021-08-25T11:56:04.199Z - info: [7:56:04 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-TIC4001\studentData.mbdf
+2021-08-25T11:56:04.200Z - info: Synchronizing opened pages list before reload
+2021-08-25T11:56:04.200Z - info: Current opened pages, from most-to-least recent:
+2021-08-25T11:56:04.201Z - info: 1. schedule/week4/project
+2021-08-25T11:56:05.203Z - info: Rebuilding 1 pages
+2021-08-25T11:56:06.867Z - info: Site data built
+2021-08-25T11:56:06.867Z - info: Pages rebuilt
+2021-08-25T11:56:06.867Z - info: Website regeneration complete! Total build time: 1.665s
+2021-08-25T12:35:30.129Z - info: Website generation started at 8:35:27 pm
+2021-08-25T12:35:36.518Z - info: Building assets...

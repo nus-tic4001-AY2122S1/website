@@ -26,6 +26,6 @@ with(this){return _c('div',[_c('ul',[_c('li',[_c('strong',[_v("Post-lecture quiz
 with(this){return _c('div',[_c('ul',[_c('li',[_c('strong',[_v("An anonymous survey to submit feedback about the module and the teaching team")]),_v(" will open on LumiNUS by Monday. Please take a few minutes to give feedback to your tutors.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Sat, 21 Aug 2021, 1:17:57 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Wed, 25 Aug 2021, 20:35:42 GMT+8]")])])])}
 }];
   
