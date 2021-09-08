@@ -251,6 +251,18 @@ Suggested workflow:
   * Each member will go through their user stories to discard (e.g., cross out, or move to a different location, but not delete) which are _definitely not needed_ for {{ version_first }}.
 * **Second stage**:
   * All members discuss the remaining user stories (i.e., the ones not discarded in the first stage), and try to trim the list further.
+
+<box type="info" icon=":fas-question-circle:"seamless>
+
+**FAQs**{.text-info}
+
+**Q:** What if the chosen user stories for {{ version_first }} is not enough to do a meaningful work division among team members?<br>
+**A:** In that case, you can add more user stories until there is enough for a meaningful work distribution.
+
+{% if cs2103 or tic4002 %}**Q:** Should we omit user stories that are already supported by AB3?<br>
+**A:** No, you should still include them. Reason: The existing implementation might still require some work before it fits your product.
+{% endif %}
+</box>
 </div>
 {#====================================================================================================================#}
 <span id="heading_set_up_project_repo">{{ icon_team }} Set up the project repo</span>
@@ -275,7 +287,7 @@ Suggested workflow:
     * If you are an experienced programmer, you can add a different command than the one given in the tutorial.
     * Submission: Do your changes in a branch named `tutorial-adding-command`, push to your fork, and create a PR from your fork to your team's repo. You may close the PR soon after.
   * [Tutorial 3 - Removing a field from an entity]({{ url_ab3_fork_website }}/tutorials/RemovingFields.html)
-    * This tutorial is optional to do, but **at least read it** through.
+    * This tutorial is optional to do, but **at least give it a quick read**.
     * Submission: not required.
 * The PRs created for tutorials need not be merged, unless the changes are actually in line with your project idea.
 * For reference, given below is the workflow you should follow when merging code in your tP:
