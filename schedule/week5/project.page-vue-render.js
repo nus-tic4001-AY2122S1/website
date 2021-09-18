@@ -59,6 +59,6 @@ with(this){return _c('li',[_c('p',[_c('strong',[_v("User stories of what size?")
 with(this){return _c('li',[_c('p',[_c('strong',[_v("What format?")]),_v(": You may use a sentence format or a table format but do maintain the prescribed three-part structure of a user story. In particular, "),_c('mark',[_v("try to include the "),_c('em',[_v("benefit")]),_v(" part in most user stories")]),_v(" as that will come in handy when prioritizing user stories later.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Fri, 17 Sept 2021, 20:27:06 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Sat, 18 Sept 2021, 14:11:14 GMT+8]")])])])}
 }];
   
