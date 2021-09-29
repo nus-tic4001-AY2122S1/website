@@ -50,7 +50,7 @@ with(this){return _c('li',[_v("This repo (let's call it the "),_c('em',[_v("team
 with(this){return _c('li',[_c('p',[_c('strong',[_v("Enable the issue tracker")]),_v(".")])])}
 },function anonymous(
 ) {
-with(this){return _c('li',[_c('p',[_c('strong',[_v("Enable GitHub Actions")]),_v(": Go to the "),_c('span',{staticClass:"border border-secondary border-bottom-0 pr-1 pl-1 mr-1 ml-1 rounded-top"},[_c('small',[_c('span',{staticClass:"fas fa-play-circle",attrs:{"aria-hidden":"true"}}),_v(" Actions")])]),_v(" tab and enable workflows by clicking the "),_c('button',{staticClass:"btn btn-success btn-sm ",attrs:{"type":"button"}},[_v("Enable actions")]),_v(" button. That will enable the GitHub Actions that are already included in the repo you forked.")])])}
+with(this){return _c('li',[_c('p',[_c('strong',[_v("Enable GitHub Actions")]),_v(": Go to the "),_c('span',{staticClass:"border border-secondary border-bottom-0 pr-1 pl-1 mr-1 ml-1 rounded-top"},[_c('small',[_c('span',{staticClass:"fas fa-play-circle",attrs:{"aria-hidden":"true"}}),_v(" Actions")])]),_v(" tab and enable workflows by clicking the "),_c('button',{staticClass:"btn btn-success btn-sm ",attrs:{"type":"button"}},[_v("Enable actions")]),_v(" button (or the "),_c('button',{staticClass:"btn btn-success btn-sm ",attrs:{"type":"button"}},[_v("I understand ... enable them")]),_v(" button). That will enable the GitHub Actions that are already included in the repo you forked.")])])}
 },function anonymous(
 ) {
 with(this){return _c('button',{staticClass:"btn btn-light btn-sm border",attrs:{"type":"button"}},[_c('strong',[_v("Choose a theme")])])}
@@ -179,6 +179,6 @@ with(this){return _c('li',[_c('p',[_c('strong',[_v("CI passing")]),_v(" for the 
 with(this){return _c('p',[_c('span',{staticClass:"float-left algolia-no-index"},[_c('a',{staticClass:"badge badge-light",attrs:{"href":"/website/admin/appendixD-help.html"}},[_c('span',[_c('span',{staticClass:"far fa-arrow-alt-circle-left",attrs:{"aria-hidden":"true"}}),_v(" Apdx D: Getting Help")])])]),_c('span',{staticClass:"float-right algolia-no-index"},[_c('a',{staticClass:"badge badge-light",attrs:{"href":"/website/admin/appendixF-teamworkIssues.html"}},[_c('span',[_v("Apdx F: Handling Team Issues "),_c('span',{staticClass:"far fa-arrow-alt-circle-right",attrs:{"aria-hidden":"true"}})])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Wed, 29 Sept 2021, 23:03:07 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Wed, 29 Sept 2021, 23:09:49 GMT+8]")])])])}
 }];
   
