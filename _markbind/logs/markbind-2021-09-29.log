@@ -154,3 +154,19 @@
 2021-09-29T15:08:53.496Z - info: Lazy website regeneration complete! Total build time: 3.111s
 2021-09-29T15:09:38.235Z - info: Website generation started at 11:09:36 pm
 2021-09-29T15:09:43.927Z - info: Building assets...
+2021-09-29T15:09:49.318Z - info: Assets built
+2021-09-29T15:09:49.319Z - info: Generating pages...
+2021-09-29T15:09:59.236Z - debug:  
+2021-09-29T15:09:59.237Z - debug:  
+2021-09-29T15:09:59.237Z - debug:  
+2021-09-29T15:09:59.238Z - debug:  
+2021-09-29T15:09:59.238Z - debug:  
+2021-09-29T15:09:59.238Z - debug:  
+2021-09-29T15:11:41.733Z - debug:  
+2021-09-29T15:11:50.473Z - debug:  
+2021-09-29T15:11:50.473Z - debug:  
+2021-09-29T15:11:53.974Z - info: Pages built
+2021-09-29T15:11:54.739Z - info: Site data built
+2021-09-29T15:11:54.740Z - info: Website generation complete! Total build time: 137.882s
+2021-09-29T15:11:54.740Z - info: Build success!
+2021-09-29T15:12:06.956Z - info: Deployed at https://nus-tic4001-ay2122s1.github.io/website!
