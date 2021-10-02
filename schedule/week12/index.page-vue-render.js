@@ -26,6 +26,6 @@ with(this){return _c('span',[_c('span',{staticClass:"fab fa-product-hunt",attrs:
 with(this){return _c('div',[_c('p',[_c('strong',[_v("tP:")])]),_v(" "),_c('div',[_c('ol',[_c('li',[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-user",attrs:{"aria-hidden":"true"}})]),_v(" Update the DG with design details")]),_v(" "),_c('span',{staticClass:"badge badge-danger font-weight-normal"},[_c('span',[_c('span',{staticClass:"far fa-clock",attrs:{"aria-hidden":"true"}}),_v(" IMPORTANT")])])]),_v(" "),_c('li',[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-user",attrs:{"aria-hidden":"true"}})]),_v(" Draft the PPP")])]),_v(" "),_c('li',[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-users",attrs:{"aria-hidden":"true"}})]),_v(" Double-check RepoSense compatibility")])])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Fri, 1 Oct 2021, 20:17:32 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Sat, 2 Oct 2021, 13:45:21 GMT+8]")])])])}
 }];
   
