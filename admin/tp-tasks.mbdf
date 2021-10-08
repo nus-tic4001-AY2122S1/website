@@ -523,7 +523,7 @@ Update the following pages in your project repo:
   * `checkstyleMain`: checks your Java functional code for compliance with _some_ (but not all) rules specified in the coding standard, using a tool called checkstyle
   * `checkstyleTest`: similar to above, but checks the test code instead
   * `shadowJar`: creates a JAR file for your project
-* Note that GitHub Actions too is using Gradle to check the code you push to GitHub. Specifically, it runs the `check` task and then it uses the `shadowJar` to build the JAR file which is then used to do I/O redirection tests (as per the files in your `text-ui-text` folder)
+* Note that GitHub Actions too is using Gradle to check the code you push to GitHub. Specifically, it runs the `check` task and then it uses the `shadowJar` task to build the JAR file which is then used to do I/O redirection tests (as per the files in your `text-ui-text` folder)
 </box>{% endif %}
 </div>
 
