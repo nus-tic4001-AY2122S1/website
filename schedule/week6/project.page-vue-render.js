@@ -74,6 +74,6 @@ with(this){return _c('span',[_c('span',[_c('span',{staticClass:"fas fa-users",at
 with(this){return _c('ul',[_c('li',[_v("Review the UG to ensure the features written by each member fit together to form a cohesive product. Note that cohesiveness of the product can affect the grading of the "),_c('em',[_v("product design")]),_v(" aspect.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Fri, 8 Oct 2021, 20:28:19 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Wed, 13 Oct 2021, 17:52:19 GMT+8]")])])])}
 }];
   

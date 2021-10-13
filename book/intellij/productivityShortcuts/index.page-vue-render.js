@@ -17,6 +17,6 @@ with(this){return _c('div',[_c('h4',{attrs:{"id":"productivity-shortcuts"}},[_c(
 with(this){return _c('div',{staticClass:"block-embed block-embed-service-youtube"},[_c('iframe',{attrs:{"type":"text/html","src":"//www.youtube.com/embed/41CC-F6KRP8","frameborder":"0","width":"640","height":"390","webkitallowfullscreen":"","mozallowfullscreen":"","allowfullscreen":""}})])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Fri, 8 Oct 2021, 20:28:19 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Wed, 13 Oct 2021, 17:52:19 GMT+8]")])])])}
 }];
   
