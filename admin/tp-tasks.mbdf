@@ -680,6 +680,10 @@ The version you deliver in this iteration (i.e., {{ version_penultimate }}) will
 
 Given that you'll have to make important feature decisions in this iteration, it may be useful to know what kind of _feature flaws_ that can cost you marks. The panel below contains some excerpts from the guidelines your peers will use to determine feature flaws of your product after the final submission.
 
+<panel header="Admin {{ icon_embedding }} tP → **Grading → Product Design** (excerpt) → Feature Flaws" minimized>
+<include src="tp-grading-bugs.mbdf#featureFlaws" />
+</panel>
+<p/>
 <panel header="Admin {{ icon_embedding }} Practical Exam → **Guidelines for determining bugs in the final version (excerpts)**" minimized>
 
 ...
