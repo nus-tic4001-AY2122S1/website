@@ -46,6 +46,24 @@
 </div>
 
 {#====================================================================================================================#}
+<div id="cs2103-week11-intro">
+
+<box dismissible>
+
+****{{ icon_tip }} How much is enough to get full marks?**** Not surprisingly, a common question tutors receive around this time of the project is "can you look at our project and tell us if we have done enough to get full marks?". Here's the answer to that question:
+
+**The tP _effort_ is graded primarily based on peer judgements** (tutor judgements are used too). That means you will be judging the effort of another team later, which also means you should be able to make a similar judgement for your own project now. Granted effort estimating is hard for software projects, but it is an essential SE skill, and we must practice it when we can.
+
+**The expected minimum bar to get full marks for _effort_**:
+* For the team: an effort equivalent to the effort required to develop AB3 from scratch
+* For an individual: an effort equivalent to the effort the iP required
+
+If you surpass the above bars (in your own estimation), you should be in a good position to receive full marks for the effort. But keep in mind that there are many other components in the [tP grading](tp-grading.md), not just the effort.
+</box>
+
+</div>
+
+{#====================================================================================================================#}
 <div id="cs2103-week12-intro">
 
 <box dismissible>
