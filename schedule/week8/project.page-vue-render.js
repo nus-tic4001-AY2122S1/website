@@ -59,6 +59,6 @@ with(this){return _c('li',[_v("SUT: "),_c('a',{attrs:{"href":"https://github.com
 with(this){return _c('li',[_v("SUT: "),_c('a',{attrs:{"href":"https://github.com/se-edu/addressbook-level2/blob/master/src/seedu/addressbook/data/AddressBook.java"}},[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("seedu.addressbook.data.AddressBook.java")])]),_c('br'),_v("\nTests: "),_c('a',{attrs:{"href":"https://github.com/se-edu/addressbook-level2/blob/master/test/java/seedu/addressbook/data/AddressBookTest.java"}},[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("seedu.addressbook.data.AddressBookTest.java")])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Fri, 22 Oct 2021, 19:01:47 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Thu, 28 Oct 2021, 1:38:11 GMT+8]")])])])}
 }];
   
