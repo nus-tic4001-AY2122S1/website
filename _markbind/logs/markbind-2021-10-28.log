@@ -175,3 +175,67 @@
 2021-10-27T17:27:58.607Z - info: Lazy website regeneration complete! Total build time: 0.654s
 2021-10-27T17:37:59.775Z - info: Website generation started at 1:37:57 am
 2021-10-27T17:38:06.053Z - info: Building assets...
+2021-10-27T17:38:11.318Z - info: Assets built
+2021-10-27T17:38:11.319Z - info: Generating pages...
+2021-10-27T17:38:18.936Z - debug:  
+2021-10-27T17:38:18.936Z - debug:  
+2021-10-27T17:38:18.937Z - debug:  
+2021-10-27T17:38:18.937Z - debug:  
+2021-10-27T17:38:18.937Z - debug:  
+2021-10-27T17:38:19.005Z - debug:  
+2021-10-27T17:39:49.289Z - debug:  
+2021-10-27T17:39:57.195Z - debug:  
+2021-10-27T17:39:57.196Z - debug:  
+2021-10-27T17:40:00.886Z - info: Pages built
+2021-10-27T17:40:01.756Z - info: Site data built
+2021-10-27T17:40:01.756Z - info: Website generation complete! Total build time: 123.872s
+2021-10-27T17:40:01.756Z - info: Build success!
+2021-10-27T17:40:14.032Z - info: Deployed at https://nus-tic4001-ay2122s1.github.io/website!
+2021-10-28T15:46:57.809Z - info: Website generation (lazy) started at 11:46:53 pm
+2021-10-28T15:47:03.535Z - info: Building assets...
+2021-10-28T15:47:08.264Z - info: Assets built
+2021-10-28T15:47:08.265Z - info: Generating landing page...
+2021-10-28T15:47:09.325Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-10-28T15:47:10.167Z - info: Site data built
+2021-10-28T15:47:10.167Z - info: Website generation (lazy) complete! Total build time: 17.111s
+2021-10-28T15:47:12.130Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:65127
+2021-10-28T15:47:12.131Z - info: Press CTRL+C to stop ...
+2021-10-28T15:47:25.180Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\index as some of its dependencies were changed since the last visit
+2021-10-28T15:47:25.444Z - info: Site data built
+2021-10-28T15:47:25.444Z - info: Lazy website regeneration complete! Total build time: 0.265s
+2021-10-28T15:47:30.919Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\print as some of its dependencies were changed since the last visit
+2021-10-28T15:47:38.103Z - debug:  
+2021-10-28T15:47:38.128Z - debug:  
+2021-10-28T15:47:38.131Z - debug:  
+2021-10-28T15:47:38.149Z - debug:  
+2021-10-28T15:47:38.150Z - debug:  
+2021-10-28T15:47:39.548Z - info: Site data built
+2021-10-28T15:47:39.548Z - info: Lazy website regeneration complete! Total build time: 8.629s
+2021-10-28T15:55:30.577Z - info: [11:55:30 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-TIC2002\textbookTopics.mbdf
+2021-10-28T15:55:30.578Z - info: Synchronizing opened pages list before reload
+2021-10-28T15:55:30.578Z - info: Current opened pages, from most-to-least recent:
+2021-10-28T15:55:30.578Z - info: 1. se-book-adapted/print
+2021-10-28T15:55:30.579Z - info: 2. se-book-adapted/index
+2021-10-28T15:55:31.820Z - info: Rebuilding 2 pages
+2021-10-28T15:55:37.794Z - debug:  
+2021-10-28T15:55:37.815Z - debug:  
+2021-10-28T15:55:37.816Z - debug:  
+2021-10-28T15:55:37.816Z - debug:  
+2021-10-28T15:55:37.816Z - debug:  
+2021-10-28T15:55:38.368Z - info: Site data built
+2021-10-28T15:55:38.368Z - info: Pages rebuilt
+2021-10-28T15:55:38.368Z - info: Website regeneration complete! Total build time: 6.548s
+2021-10-28T15:55:51.286Z - info: [11:55:51 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-TIC2002\textbookTopics.mbdf
+2021-10-28T15:55:51.286Z - info: Synchronizing opened pages list before reload
+2021-10-28T15:55:51.287Z - info: Current opened pages, from most-to-least recent:
+2021-10-28T15:55:51.287Z - info: 1. se-book-adapted/print
+2021-10-28T15:55:51.287Z - info: 2. se-book-adapted/index
+2021-10-28T15:55:52.430Z - info: Rebuilding 2 pages
+2021-10-28T15:55:58.141Z - debug:  
+2021-10-28T15:55:58.142Z - debug:  
+2021-10-28T15:55:58.142Z - debug:  
+2021-10-28T15:55:58.142Z - debug:  
+2021-10-28T15:55:58.142Z - debug:  
+2021-10-28T15:55:58.614Z - info: Site data built
+2021-10-28T15:55:58.614Z - info: Pages rebuilt
+2021-10-28T15:55:58.615Z - info: Website regeneration complete! Total build time: 6.185s
