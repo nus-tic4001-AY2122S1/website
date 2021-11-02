@@ -77,6 +77,6 @@ with(this){return _c('p',[_c('strong',[_v("Typically, you should choose three va
 with(this){return _c('div',[_c('h2',{attrs:{"id":"more"}},[_c('span',{staticClass:"anchor",attrs:{"id":"more"}}),_c('span',[_v("More")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#more","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Fri, 29 Oct 2021, 20:35:18 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 2 Nov 2021, 22:46:49 GMT+8]")])])])}
 }];
   
