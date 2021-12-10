@@ -11,6 +11,6 @@ with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center d-prin
 with(this){return _c('div',{staticClass:"fixed-header-padding",attrs:{"id":"content-wrapper"}},[_c('div',{attrs:{"id":"main"}},[_c('p',{staticClass:"lead"},[_v("There is no midterm exam. Information about the final exam is given below.")]),_v(" "),_c('ul',[_c('li',[_v("The final exam will be as per the normal exam schedule, and will count for 30% of the final grade.")])])]),_v(" "),_c('br'),_v(" "),_c('i',{staticClass:"fa fa-arrow-circle-up fa-lg d-print-none",attrs:{"id":"scroll-top-button","onclick":"handleScrollTop()","aria-hidden":"true"}})])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Fri, 10 Dec 2021, 23:51:57 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Sat, 11 Dec 2021, 1:03:58 GMT+8]")])])])}
 }];
   
